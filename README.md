@@ -1,5 +1,5 @@
 # uvt_iot_ash
-contains sample code on how to 
+contains sample code on how to using IoT Watson Platform with button-switch example.
 - publish device events 
 - subscribe to device commands
 - subscribe to events and publish commands
