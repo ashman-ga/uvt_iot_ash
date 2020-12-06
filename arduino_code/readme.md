@@ -1,1 +1,3 @@
-arduino version of publish and subscribe is included here
+# arduino version of uvt_iot_ash
+- publish code for dummy temperature
+- subscribe code for inbuilt led on/off
